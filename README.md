@@ -1,3 +1,4 @@
 # A-visit-to-the-Armory
 This is a series of talks where we show our newest prototypes.
-This is the repository for our Talk "A visit to the Armory" presented @ P0SCon Iran
+This is the repository for our Talk "A visit to the Armory" presented @ P0SCon Iran 2021.
+https://drive.google.com/file/d/16Njhy6w4rq29Fee0CUzMgY6nzYo33Rg7/view?usp=sharing
